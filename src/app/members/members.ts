@@ -37,13 +37,4 @@ export const members: Member[] = [
             twitter: 'nebadesmondc'
         }
     },
-    {
-        name: 'John Brindi',
-        skills: ['Cyber Enthusiast', "Python", "JavaScript"],
-        socials: {
-            github: 'johnbrindi',
-            linkedin: 'mazwewoh-john-brindi-6684a3284',
-            twitter: 'johnbrindi'
-        }
-    },
 ]
